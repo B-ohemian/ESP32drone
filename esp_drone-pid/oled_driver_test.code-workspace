@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"led.h": "c",
+			"mcpwm_struct.h": "c",
+			"ledc.h": "c",
+			"*.ipp": "c",
+			"esp_event_loop.h": "c",
+			"mpu_dmp_driver.h": "c",
+			"functional": "c",
+			"task.h": "c",
+			"timers.h": "c",
+			"array": "c",
+			"string": "c",
+			"string_view": "c",
+			"complex": "c",
+			"queue.h": "c",
+			"init.h": "c",
+			"event_groups.h": "c",
+			"esp_spi_flash.h": "c",
+			"stdio.h": "c",
+			"nvs_flash.h": "c",
+			"*.tcc": "c"
+		}
+	}
+}
